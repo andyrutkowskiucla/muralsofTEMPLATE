@@ -24,10 +24,22 @@ and the README.md
 
 3. A CARTO account to create a map. It doesn't have to be CARTO. You can use anything! Check out the TechConnect talk "We Mapped It So You Don’t Have To: Comparing mapping platforms for Digital Humanities projects" for other ideas.
 
+# Lets add some data to CARTO and then publish it in GitHub
+
+BALTIMORE DEMO Mural Metadata. Download or copy to your own Google Drive: https://drive.google.com/drive/folders/0B0GLYH70A2T7V2RtZWxkLTRudnM?usp=sharing
+
+Bonus - Add Baltimore Neighorhood Shapefile
+https://drive.google.com/drive/folders/0B0GLYH70A2T7V2RtZWxkLTRudnM?usp=sharing
+
+CARTO BASICS - Super Basic tutorial (more reseources to come):
+https://carto.com/learn/guides/intro/getting-started-with-carto-builder
 ------------------------------------------------------------------------------------
 
+
+
+
 Thank you to Blackrockdigital for setting up the orginal repo. More info below:
-#Clean Blog by Start Bootstrap - Jekyll Version
+Clean Blog by Start Bootstrap - Jekyll Version
 
 The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
 
