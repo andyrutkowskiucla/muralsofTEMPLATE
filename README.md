@@ -1,16 +1,17 @@
-This project repository is a resource page for ongoing work around Los Angeles mural collections. The idea for the project emerged during a seminar course at UCLA's Urban Humanities Summer Institute. The idea is fairly simple, bring together as many mural collections from the Los Angeles area as possible and put them on a map, provide the underlying metadata, and give some ideas for how to create your own maps and generally use the data. 
+This repository provides a basic template for building your own website for documenting murals. 
 
-Thanks to:
+What do you need? 
 
-Wayne Shoaf at USC for providing original metadata for The Robin Dunitz Collecition.
-Mark Matney and the Digital Library Program team at UCLA for providing original metadata for the Nancy Tovar Collection.
-Stacy Williams at USC for providing answers and guidance to the Robin Dunitz Archive.
-Miriam Posner for providing guidance and inspiration, especially through her DH courses at UCLA.
-Todd Presner, Jonathan Banfill, and everyone involved in the UHI program. 
-Zoe Borovsky and everyone involved in UCLA's DResSUP Program.
-Yoh Kawano and Albert Kochaphum at UCLA's Institute for Digital Research and Education for countless hours of support and collaboration.
+1. A dataset of murals to put into google sheets.
+Go out and take your own pictures. Find murals online or at a library. It doesn't matter. You just need a few murals to get started.
+No murals in your town? Go out and find places that you want to see murals!
+2. A google docs account in order to create a google sheet from your mural data. Take your data and put it into google sheets.
+You can use the metadata template to get started: https://docs.google.com/spreadsheets/d/1rEeWW5pnvNpixm__2F708SBjppZW8hmoI2JSfLCLKMY/edit?usp=sharing
+3. A CARTO account to create a map.
 
-To all the muralists past, present, and future. 
+
+
+
 
 ------------------------------------------------------------------------------------
 
