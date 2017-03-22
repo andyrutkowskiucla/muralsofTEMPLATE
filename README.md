@@ -1,4 +1,5 @@
 This repository provides a basic template for building your own website for documenting murals. 
+After you have forked this repo make sure to switch to gh-pages for your source.
 
 What do you need? 
 
