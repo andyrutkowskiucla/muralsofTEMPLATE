@@ -6,7 +6,7 @@ What do you need?
 
 2. A google docs account in order to create a google sheet from your mural data. Take your data and put it into google sheets. You can use the metadata template to get started: https://docs.google.com/spreadsheets/d/1rEeWW5pnvNpixm__2F708SBjppZW8hmoI2JSfLCLKMY/edit?usp=sharing
 
-3. A CARTO account to create a map.
+3. A CARTO account to create a map. It doesn't have to be CARTO. You can use anything! Check out the TechConnect talk "We Mapped It So You Don’t Have To: Comparing mapping platforms for Digital Humanities projects" for other ideas.
 
 ------------------------------------------------------------------------------------
 
