@@ -1,13 +1,13 @@
 # Site settings
-title: Mapping Los Angeles Murals
+title: Mapping [murals somewhere]
 header-img: img.home-bg.jpg
-email: arutkowski@library.ucla.edu
-copyright_name: MappingLosAngelesMurals
-description: "This project maps mural collections from across the Los Angeles area, including UCLA and USC"
+email: your@yours
+copyright_name: mappingsomething
+description: "This project maps murals somewhere"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: andy_rutkowski
-github_username:  andyrutkowskiucla
+twitter_username: something
+github_username:  something
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
