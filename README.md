@@ -1,4 +1,4 @@
-# H1 Intro
+# Intro
 
 This repository provides a basic template for building your own website for documenting murals. After you have forked this repo make sure to switch to gh-pages as your source in the settings.
 
@@ -16,7 +16,7 @@ contact.html
 
 and the README.md
 
-# H1 What do you need to make a map?
+# What do you need to make a map?
 
 1. A dataset of murals to put into google sheets. Go out and take your own pictures. Find murals online or at a library. It doesn't matter. You just need a few murals to get started. No murals in your town? Go out and find places that you want to see murals!
 
