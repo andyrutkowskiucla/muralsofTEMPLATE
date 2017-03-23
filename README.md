@@ -30,6 +30,8 @@ BALTIMORE DEMO Mural Metadata. Download or copy to your own Google Drive: https:
 
 Bonus - Add Baltimore Neighorhood Shapefile
 https://drive.google.com/drive/folders/0B0GLYH70A2T7V2RtZWxkLTRudnM?usp=sharing
+or original source:
+http://gis-baltimore.opendata.arcgis.com/datasets/1ca93e68f11541d4b59a63243725c4b7_0?geometry=-77.644%2C39.125%2C-75.844%2C39.444
 
 CARTO BASICS - Super Basic tutorial (more reseources to come):
 https://carto.com/learn/guides/intro/getting-started-with-carto-builder
