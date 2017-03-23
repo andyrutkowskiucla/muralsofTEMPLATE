@@ -4,6 +4,8 @@ This repository provides a basic template for building your own website for docu
 
 Basically this contains the structure for creating and maintaining a simple website as well as files and other content for a project. To customize this for your own needs you can edit the following files:
 
+_config.yml
+
 index.html
 
 about.html
